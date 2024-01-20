@@ -69,7 +69,7 @@ docker run -p 8080:8080 github.com/
 
 ## Frontend Screenshots
 
-![frontend](https://github.com/vamsianamalamudi/2048-python/2048-ss.png)
+![frontend](https://github.com/vamsianamalamudi/2048-python/blob/main/2048-ss.png)
 
 For more details and examples, please refer to the code and comments in the individual files.
 

@@ -36,13 +36,7 @@ OR
 
 ### Using docker
 
-1. Pull the docker image:
-
-```shell
-docker pull ghcr.io/vamsianamalamudi/2048-python:latest
-```
-
-2. Run the docker container using image:
+1. Run using docker image:
 
 ```shell
 docker run -p 8080:8080 ghcr.io/vamsianamalamudi/2048-python:latest

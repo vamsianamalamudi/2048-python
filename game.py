@@ -90,7 +90,7 @@ class Game2048:
         # board_doc = textwrap.dedent(self.board.__doc__)
         # docstring = f"#### Engine:\n{engine_doc}#### Board:\n\n{board_doc}"
         # open readme.md
-        with open("readme.md", "r") as f:
+        with open("README.md", "r") as f:
             docstring = f.read()
         docstring = "\n".join(
             line.strip() for line in docstring.split("\n") if "![image]" not in line

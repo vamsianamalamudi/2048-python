@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+easy_logs
+numpy
+Jinja2
